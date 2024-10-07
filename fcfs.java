@@ -9,7 +9,7 @@ class Process {
     int tat;    // Turnaround time
 }
 
-public class FCFS_22103020 {
+public class FCFS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
